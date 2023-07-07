@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://logospng.org/wp-content/uploads/sbt.png", SBT
+https://tv.onlinenetgo.com.br/media/n/BZfJAdeY/a/BZfJAdeY/720p/chunks.m3u8?ch=BZfJAdeY&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODQ2NjQsImlhdCI6MTY4ODc2NjY2NCwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.cPX6mgYdhgt2w9XbUPanctymrQulKOaJV_DPOVancGE
+#EXTINF:0 tvg-id="TAMBAU" tvg-name="TAMBAU" tvg-logo="https://i0.wp.com/portalhqpb.com.br/wp-content/uploads/2016/09/Logo-TV-TAMBAU.png?ssl=1", TAMBAU
+https://tv.onlinenetgo.com.br/media/n/BZyZmJyXy2GYmJu0odu2/a/BZyZmJyXy2GYmJu0odu2/720p/chunks.m3u8?ch=BZyZmJyXy2GYmJu0odu2&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU3MjEsImlhdCI6MTY4ODc2NzcyMSwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.cHmqxIKbPLYPtv-pU6BrxSNpnov2YnbqRDaYNicrqQ0
+#EXTINF:0 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://w7.pngwing.com/pngs/426/62/png-transparent-tv-globo-de-sao-paulo-ltda-rede-globo-television-grupo-globo-globonews-robocop-miscellaneous-television-heroes-thumbnail.png", GLOBO
+https://tv.onlinenetgo.com.br/media/n/BZyZmJyXy2GYmJq3mJm2/a/BZyZmJyXy2GYmJq3mJm2/720p/chunks.m3u8?ch=BZyZmJyXy2GYmJq3mJm2&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODUyNzEsImlhdCI6MTY4ODc2NzI3MSwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.TMjpmRisicRVjJbjqWZpl4tir3tpB5GFz8XjLDlSRNI
+#EXTINF:0 tvg-id="GLOBO 480p" tvg-name="GLOBO 480p" tvg-logo="https://w7.pngwing.com/pngs/426/62/png-transparent-tv-globo-de-sao-paulo-ltda-rede-globo-television-grupo-globo-globonews-robocop-miscellaneous-television-heroes-thumbnail.png", GLOBO 480p
+https://tv.onlinenetgo.com.br/media/n/BZfJAdG/a/BZfJAdG/720p/chunks.m3u8?ch=BZfJAdG&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU1NTksImlhdCI6MTY4ODc2NzU1OSwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.Yt_gVzK995NCeBvLkU2UYz8VM-aeBd3qklpfp0lp45g
+#EXTINF:0,GLOBO NORDESTE
+https://tv.onlinenetgo.com.br/media/n/BZyZmJyXy2GYmJu0oduZ/a/BZyZmJyXy2GYmJu0oduZ/720p/chunks.m3u8?ch=BZyZmJyXy2GYmJu0oduZ&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU2NTQsImlhdCI6MTY4ODc2NzY1NCwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.PR5lQkb36SERJyxURiSLqVYrSBJFDBuTxEM-07FNoZg
+#EXTINF:0,RECORD TV
+https://tv.onlinenetgo.com.br/media/n/BZfJAdq/a/BZfJAdq/720p/chunks.m3u8?ch=BZfJAdq&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODUzNjcsImlhdCI6MTY4ODc2NzM2Nywic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.mD8oTeeKHmS9m7KCWXVJUHvuYDPK6f5jp92CT0_dX5w
+#EXTINF:0,REDE TV
+https://tv.onlinenetgo.com.br/media/n/BZfJAdK/a/BZfJAdK/720p/chunks.m3u8?ch=BZfJAdK&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU0MjYsImlhdCI6MTY4ODc2NzQyNiwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.cxEJ0P4wDcJEd0zY7HN-vy0WKCyHlZujcLc89ieF3iA
+#EXTINF:0,BAND
+https://tv.onlinenetgo.com.br/media/n/BZfJAde0/a/BZfJAde0/720p/chunks.m3u8?ch=BZfJAde0&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU1MTUsImlhdCI6MTY4ODc2NzUxNSwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.p70f5xk5jWNfDZ1k0r5m7q-aD9TNRvufl5UAa6jKwUU
+#EXTINF:0,TV CORREIO
+https://tv.onlinenetgo.com.br/media/n/BZyZmJyXy2GYmJu0odyW/a/BZyZmJyXy2GYmJu0odyW/720p/chunks.m3u8?ch=BZyZmJyXy2GYmJu0odyW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU3ODAsImlhdCI6MTY4ODc2Nzc4MCwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.P-GU-VYHBGwtAYdoqkkbsMQmbYHxDPIS3d32bA4Jd-0
+#EXTINF:0,TV ARAPUAN
+https://tv.onlinenetgo.com.br/media/n/BZyZmJyXy2GYmJu0ody0/a/BZyZmJyXy2GYmJu0ody0/720p/chunks.m3u8?ch=BZyZmJyXy2GYmJu0ody0&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU4NTIsImlhdCI6MTY4ODc2Nzg1Miwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.9NBXqKbLoOPkXDpj3LyUCmN8OseS_tlSig6funxmd2s
+#EXTINF:0,ALL SPORTS
+https://tv.onlinenetgo.com.br/media/n/BZi1nZuZy2GXmJa2mdiY/a/BZi1nZuZy2GXmJa2mdiY/720p/chunks.m3u8?ch=BZi1nZuZy2GXmJa2mdiY&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU4OTgsImlhdCI6MTY4ODc2Nzg5OCwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.wXMYpy_SDPzUgPz4t9y1kcBH19NJoxb_2R_YC6TiXqE
+#EXTINF:0,TV KIDS
+https://tv.onlinenetgo.com.br/media/n/BZe2mJuWy2GXody4ndeW/a/BZe2mJuWy2GXody4ndeW/720p/chunks.m3u8?ch=BZe2mJuWy2GXody4ndeW&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2ODg3ODU5MjQsImlhdCI6MTY4ODc2NzkyNCwic3ViIjoibWFpbi5vcmcjMTY4MzAzNDIwMSJ9.aU6wTgBnekVsQpkgUpHc9ODW_JVOOcOKHyJ98kf4KdM
